@@ -1,8 +1,10 @@
 class Shape:
-    def __init__(self,type,shape_id):
+    
+    def __init__(self,shape_id,type):
         self.shape_id = shape_id
         self.type = type
-        # self.shape_id += 1
+        ''' TO DO'''
+        self.shape_id += 1
     def get_area(self):
         pass
     def get_perimeter(self):
