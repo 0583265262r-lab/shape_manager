@@ -20,7 +20,7 @@ class Rectangle(Shape):
     def to_dict(self):
         '''פונקציה שמייצרת מילון '''
         logger.info(f"creating dictionary")
-        return {str(self.shape_id):{"width":str(self.width),
+        return {str(self.shape_id):{"type":self.type,"width":str(self.width),
                                     "height":str(self.width),
                                     "area":self.get_area(),
                                     "perimeter":self.get_perimeter()

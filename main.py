@@ -18,33 +18,20 @@ def add_shape():
                 print( f"int needed {e}")
     else:
         print("invalid input")
-    print(shape_arg)
-    print(s1.create_shape(shape_arg))
-
-
-
-
-       
-    # s1.create_shape(shape,s)
-
-    # if shape == "1":
-    #     try:
-    #         radius=int(input("please enter radius: "))
-    #         return s1.create_shape("circle",radius)
-    #     except ValueError as e:
-    #         print(f"int needed {e}")
-    # if shape == "2":
-    #     try:
-    #         side=int(input("please enter side: "))
-    #         return s1.create_shape("square",side)
-    #     except ValueError as e:
-    #         print(f"int needed {e}")
- 
-    
-        
-            
-        
+    s1.create_shape(shape_arg)
+    # s1.get_all_shapes()    
 add_shape()
+
+# def updata():
+#     logger.info("a")
+#     shape_id = int(input("please enter ID: "))
+    
+    
+
+#     s1.update_shape(shape_id,add_shape())
+# updata()
+
+    
         
 
 

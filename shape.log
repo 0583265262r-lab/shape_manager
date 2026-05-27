@@ -90,3 +90,141 @@
 2026-05-27 15:37:22,876 | INFO | Rectangle | creating dictionary
 2026-05-27 15:37:22,877 | INFO | Rectangle | calculating area
 2026-05-27 15:37:22,877 | INFO | Rectangle | calculating perimeter
+2026-05-27 15:53:54,774 | INFO | circle | creating dictionary
+2026-05-27 15:53:54,774 | INFO | circle | calculating area
+2026-05-27 15:53:54,775 | INFO | circle | calculating perimeter
+2026-05-27 15:54:23,819 | INFO | circle | creating dictionary
+2026-05-27 15:54:23,820 | INFO | circle | calculating area
+2026-05-27 15:54:23,820 | INFO | circle | calculating perimeter
+2026-05-27 15:54:41,004 | INFO | circle | creating dictionary
+2026-05-27 15:54:41,005 | INFO | circle | calculating area
+2026-05-27 15:54:41,005 | INFO | circle | calculating perimeter
+2026-05-27 15:55:23,557 | INFO | circle | creating dictionary
+2026-05-27 15:55:23,558 | INFO | circle | calculating area
+2026-05-27 15:55:23,558 | INFO | circle | calculating perimeter
+2026-05-27 15:55:46,002 | INFO | circle | creating dictionary
+2026-05-27 15:55:46,002 | INFO | circle | calculating area
+2026-05-27 15:55:46,003 | INFO | circle | calculating perimeter
+2026-05-27 15:57:02,668 | INFO | circle | creating dictionary
+2026-05-27 15:57:02,669 | INFO | circle | calculating area
+2026-05-27 15:57:02,669 | INFO | circle | calculating perimeter
+2026-05-27 15:58:10,304 | INFO | circle | creating dictionary
+2026-05-27 15:58:10,304 | INFO | circle | calculating area
+2026-05-27 15:58:10,305 | INFO | circle | calculating perimeter
+2026-05-27 15:59:15,725 | INFO | circle | creating dictionary
+2026-05-27 15:59:15,726 | INFO | circle | calculating area
+2026-05-27 15:59:15,726 | INFO | circle | calculating perimeter
+2026-05-27 16:00:08,248 | INFO | circle | creating dictionary
+2026-05-27 16:00:08,248 | INFO | circle | calculating area
+2026-05-27 16:00:08,248 | INFO | circle | calculating perimeter
+2026-05-27 16:00:08,248 | INFO | Rectangle | assdddf
+2026-05-27 16:00:52,706 | INFO | circle | creating dictionary
+2026-05-27 16:00:52,706 | INFO | circle | calculating area
+2026-05-27 16:00:52,706 | INFO | circle | calculating perimeter
+2026-05-27 16:00:52,706 | INFO | Rectangle | assdddf
+2026-05-27 16:03:49,403 | INFO | circle | creating dictionary
+2026-05-27 16:03:49,403 | INFO | circle | calculating area
+2026-05-27 16:03:49,403 | INFO | circle | calculating perimeter
+2026-05-27 16:03:49,404 | INFO | Rectangle | assdddf
+2026-05-27 16:04:07,114 | INFO | square | creating dictionary
+2026-05-27 16:04:07,114 | INFO | square | calculating area
+2026-05-27 16:04:07,114 | INFO | square | calculating perimeter
+2026-05-27 16:04:07,115 | INFO | Rectangle | assdddf
+2026-05-27 16:29:13,199 | INFO | circle | creating dictionary
+2026-05-27 16:29:13,214 | INFO | circle | calculating area
+2026-05-27 16:29:13,215 | INFO | circle | calculating perimeter
+2026-05-27 16:29:13,215 | INFO | Rectangle | assdddf
+2026-05-27 16:32:06,874 | INFO | circle | creating dictionary
+2026-05-27 16:32:06,874 | INFO | circle | calculating area
+2026-05-27 16:32:06,875 | INFO | circle | calculating perimeter
+2026-05-27 16:32:06,875 | INFO | Rectangle | assdddf
+2026-05-27 16:32:33,184 | INFO | circle | creating dictionary
+2026-05-27 16:32:33,184 | INFO | circle | calculating area
+2026-05-27 16:32:33,184 | INFO | circle | calculating perimeter
+2026-05-27 16:32:33,184 | INFO | Rectangle | assdddf
+2026-05-27 16:33:23,597 | INFO | circle | creating dictionary
+2026-05-27 16:33:23,597 | INFO | circle | calculating area
+2026-05-27 16:33:23,597 | INFO | circle | calculating perimeter
+2026-05-27 16:33:23,598 | INFO | Rectangle | assdddf
+2026-05-27 16:36:24,588 | INFO | circle | creating dictionary
+2026-05-27 16:36:24,588 | INFO | circle | calculating area
+2026-05-27 16:36:24,589 | INFO | circle | calculating perimeter
+2026-05-27 16:36:24,589 | INFO | Rectangle | assdddf
+2026-05-27 16:37:58,441 | INFO | circle | creating dictionary
+2026-05-27 16:37:58,442 | INFO | circle | calculating area
+2026-05-27 16:37:58,442 | INFO | circle | calculating perimeter
+2026-05-27 16:38:31,731 | INFO | circle | creating dictionary
+2026-05-27 16:38:31,731 | INFO | circle | calculating area
+2026-05-27 16:38:31,731 | INFO | circle | calculating perimeter
+2026-05-27 16:38:31,733 | INFO | Rectangle | assdddf
+2026-05-27 16:39:02,054 | INFO | Rectangle | creating dictionary
+2026-05-27 16:39:02,055 | INFO | Rectangle | calculating area
+2026-05-27 16:39:02,055 | INFO | Rectangle | calculating perimeter
+2026-05-27 16:39:02,056 | INFO | Rectangle | assdddf
+2026-05-27 16:40:25,459 | INFO | circle | creating dictionary
+2026-05-27 16:40:25,460 | INFO | circle | calculating area
+2026-05-27 16:40:25,460 | INFO | circle | calculating perimeter
+2026-05-27 16:46:38,909 | INFO | circle | creating dictionary
+2026-05-27 16:46:38,910 | INFO | circle | calculating area
+2026-05-27 16:46:38,910 | INFO | circle | calculating perimeter
+2026-05-27 16:47:22,167 | INFO | circle | creating dictionary
+2026-05-27 16:47:22,168 | INFO | circle | calculating area
+2026-05-27 16:47:22,168 | INFO | circle | calculating perimeter
+2026-05-27 16:47:22,168 | INFO | Rectangle | jfhdh
+2026-05-27 16:48:19,307 | INFO | Rectangle | created
+2026-05-27 16:48:19,308 | INFO | circle | creating dictionary
+2026-05-27 16:48:19,308 | INFO | circle | calculating area
+2026-05-27 16:48:19,308 | INFO | circle | calculating perimeter
+2026-05-27 16:48:19,308 | INFO | Rectangle | jfhdh
+2026-05-27 16:49:17,719 | INFO | Rectangle | created
+2026-05-27 16:49:17,720 | INFO | circle | creating dictionary
+2026-05-27 16:49:17,720 | INFO | circle | calculating area
+2026-05-27 16:49:17,721 | INFO | circle | calculating perimeter
+2026-05-27 16:49:17,721 | INFO | Rectangle | jfhdh
+2026-05-27 16:52:54,312 | INFO | Rectangle | created
+2026-05-27 16:52:54,313 | INFO | circle | creating dictionary
+2026-05-27 16:52:54,313 | INFO | circle | calculating area
+2026-05-27 16:52:54,313 | INFO | circle | calculating perimeter
+2026-05-27 16:54:23,907 | INFO | Rectangle | created
+2026-05-27 16:54:23,908 | INFO | circle | creating dictionary
+2026-05-27 16:54:23,908 | INFO | circle | calculating area
+2026-05-27 16:54:23,908 | INFO | circle | calculating perimeter
+2026-05-27 16:55:18,978 | INFO | Rectangle | created
+2026-05-27 16:55:18,978 | INFO | circle | creating dictionary
+2026-05-27 16:55:18,979 | INFO | circle | calculating area
+2026-05-27 16:55:18,979 | INFO | circle | calculating perimeter
+2026-05-27 17:03:07,238 | INFO | Rectangle | created
+2026-05-27 17:03:07,239 | INFO | circle | creating dictionary
+2026-05-27 17:03:07,239 | INFO | circle | calculating area
+2026-05-27 17:03:07,240 | INFO | circle | calculating perimeter
+2026-05-27 17:03:07,240 | INFO | Rectangle | jfhdh
+2026-05-27 17:03:40,732 | INFO | Rectangle | created
+2026-05-27 17:03:40,733 | INFO | circle | creating dictionary
+2026-05-27 17:03:40,733 | INFO | circle | calculating area
+2026-05-27 17:03:40,734 | INFO | circle | calculating perimeter
+2026-05-27 17:03:40,734 | INFO | Rectangle | jfhdh
+2026-05-27 17:17:09,571 | INFO | Rectangle | a
+2026-05-27 17:29:10,500 | INFO | Rectangle | a
+2026-05-27 17:29:22,143 | INFO | Rectangle | a
+2026-05-27 17:29:31,919 | INFO | Rectangle | created
+2026-05-27 17:29:31,919 | INFO | circle | creating dictionary
+2026-05-27 17:29:31,919 | INFO | circle | calculating area
+2026-05-27 17:29:31,935 | INFO | circle | calculating perimeter
+2026-05-27 17:29:31,935 | INFO | Rectangle | jfhdh
+2026-05-27 17:29:31,937 | INFO | Rectangle | b
+2026-05-27 17:29:53,197 | INFO | Rectangle | a
+2026-05-27 17:30:04,828 | INFO | Rectangle | created
+2026-05-27 17:30:04,828 | INFO | circle | creating dictionary
+2026-05-27 17:30:04,829 | INFO | circle | calculating area
+2026-05-27 17:30:04,829 | INFO | circle | calculating perimeter
+2026-05-27 17:30:04,829 | INFO | Rectangle | jfhdh
+2026-05-27 17:30:04,831 | INFO | Rectangle | b
+2026-05-27 17:38:35,093 | INFO | Rectangle | a
+2026-05-27 17:38:40,115 | INFO | Rectangle | created
+2026-05-27 17:38:40,115 | INFO | circle | creating dictionary
+2026-05-27 17:38:40,115 | INFO | circle | calculating area
+2026-05-27 17:38:40,116 | INFO | circle | calculating perimeter
+2026-05-27 17:38:55,315 | INFO | Rectangle | created
+2026-05-27 17:38:55,315 | INFO | circle | creating dictionary
+2026-05-27 17:38:55,316 | INFO | circle | calculating area
+2026-05-27 17:38:55,316 | INFO | circle | calculating perimeter

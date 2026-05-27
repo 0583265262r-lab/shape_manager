@@ -21,7 +21,7 @@ class Square(Shape):
     def to_dict(self):
         '''פונקציה שמייצרת מילון '''
         logger.info(f"creating dictionary")
-        return {str(self.shape_id):{"side":str(self.side),
+        return {str(self.shape_id):{"type":self.type,"side":str(self.side),
                                     "area":self.get_area(),
                                     "perimeter":self.get_perimeter(),
                                     }}

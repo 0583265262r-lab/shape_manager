@@ -19,7 +19,7 @@ class Circle(Shape):
     def to_dict(self):
         '''פונקציה שמייצרת מילון '''
         logger.info(f"creating dictionary")
-        return {str(self.shape_id):{"radius":str(self.radius),
+        return {str(self.shape_id):{"type":self.type,"radius":str(self.radius),
                                     "area":self.get_area(),
                                     "perimeter":self.get_perimeter()}}
 
