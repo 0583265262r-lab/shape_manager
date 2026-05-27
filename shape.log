@@ -1,0 +1,11 @@
+2026-05-27 09:51:42,438 | INFO | shape | calculating area
+2026-05-27 09:52:49,738 | INFO | shape | calculating area
+2026-05-27 09:53:16,933 | INFO | shape | calculating area
+2026-05-27 09:54:07,436 | INFO | logger | calculating area
+2026-05-27 10:04:19,137 | INFO | logger | calculating area
+2026-05-27 10:04:34,544 | INFO | __main__ | calculating area
+2026-05-27 10:05:23,771 | INFO | __main__ | calculating area
+2026-05-27 10:05:54,702 | INFO | Rectangle | calculating area
+2026-05-27 10:07:05,170 | INFO | Rectangle | creating dictionary
+2026-05-27 10:07:05,170 | INFO | Rectangle | calculating area
+2026-05-27 10:07:05,170 | INFO | Rectangle | calculating perimeter
