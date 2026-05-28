@@ -1,6 +1,6 @@
 from shape import *
 from logger import get_logger
-logger=get_logger("square")
+logger=get_logger()
 
 class Square(Shape):
     def __init__(self, type, shape_id,side):
@@ -29,6 +29,6 @@ class Square(Shape):
 
 
 if __name__ == "__main__":
-    s1=Square("square",2,4)
-    print(s1.to_dict())
+    shape_manager=Square("square",2,4)
+    print(shape_manager.to_dict())
     

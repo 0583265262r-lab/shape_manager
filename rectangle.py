@@ -1,6 +1,6 @@
 from shape import *
 from logger import get_logger
-logger=get_logger("Rectangle")
+logger=get_logger()
 class Rectangle(Shape):
     def __init__(self, type, shape_id,width,height):
         super().__init__(type, shape_id)

@@ -1,0 +1,57 @@
+{
+    "9": {
+        "type": "circle",
+        "radius": "3",
+        "area": "28.26",
+        "perimeter": "18.84"
+    },
+    "10": {
+        "type": "circle",
+        "radius": "3",
+        "area": "28.26",
+        "perimeter": "18.84"
+    },
+    "11": {
+        "type": "rectangle",
+        "width": "4",
+        "height": "4",
+        "area": "20",
+        "perimeter": "18"
+    },
+    "12": {
+        "type": "circle",
+        "radius": "3",
+        "area": "28.26",
+        "perimeter": "18.84"
+    },
+    "13": {
+        "type": "circle",
+        "radius": "78",
+        "area": "19103.760000000002",
+        "perimeter": "489.84000000000003"
+    },
+    "14": {
+        "type": "circle",
+        "radius": "0",
+        "area": "0.0",
+        "perimeter": "0.0"
+    },
+    "15": {
+        "type": "circle",
+        "radius": "0",
+        "area": "0.0",
+        "perimeter": "0.0"
+    },
+    "16": {
+        "type": "circle",
+        "radius": "0",
+        "area": "0.0",
+        "perimeter": "0.0"
+    },
+    "17": {
+        "type": "circle",
+        "radius": "0",
+        "area": "0.0",
+        "perimeter": "0.0"
+    }
+}

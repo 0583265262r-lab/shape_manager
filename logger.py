@@ -1,5 +1,5 @@
 import logging
-def get_logger(name):
+def get_logger(name = __name__):
     logger = logging.getLogger(name)
     logger.setLevel(logging.DEBUG)
     file_handler = logging.FileHandler('shape.log', encoding='utf-8')

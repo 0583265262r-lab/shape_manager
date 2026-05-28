@@ -1,6 +1,6 @@
 from shape import *
-from logger import get_logger
-logger=get_logger("circle")
+# from logger import get_logger
+# logger=get_logger()
 class Circle(Shape):
     def __init__(self, type, shape_id,radius):
         super().__init__(type, shape_id)
@@ -8,18 +8,19 @@ class Circle(Shape):
         
     def get_area(self):
         '''הפונקציה מחשבת שטח'''
-        logger.info(f"calculating area")
+        self.logger.info(f"calculating area")
         return str((self.radius ** 2) * 3.14)
     
     def get_perimeter(self):
         '''פונקציה שמחשבת היקף'''
-        logger.info(f"calculating perimeter")
+        self.logger.info(f"calculating perimeter")
         return str((self.radius * 2) * 3.14)
     
     def to_dict(self):
         '''פונקציה שמייצרת מילון '''
-        logger.info(f"creating dictionary")
-        return {str(self.shape_id):{"type":self.type,"radius":str(self.radius),
+        self.logger.info(f"creating dictionary")
+        return {str(self.shape_id):{"type":self.type,
+                                    "radius":str(self.radius),
                                     "area":self.get_area(),
                                     "perimeter":self.get_perimeter()}}
 

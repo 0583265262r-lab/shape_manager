@@ -1,10 +1,12 @@
-class Shape:
 
-    def __init__(self,shape_id,type):
+
+class Shape:
+    
+    def __init__(self,type, shape_id,logger=__name__):
         self.shape_id = shape_id
         self.type = type
-        ''' TO DO'''
-        # self.shape_id += 13
+        self.logger = logger
+        self.shape_id += 1
     def get_area(self):
         pass
     def get_perimeter(self):
@@ -12,4 +14,4 @@ class Shape:
     def to_dict(self):
         pass
 
-    
+  

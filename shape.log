@@ -228,3 +228,202 @@
 2026-05-27 17:38:55,315 | INFO | circle | creating dictionary
 2026-05-27 17:38:55,316 | INFO | circle | calculating area
 2026-05-27 17:38:55,316 | INFO | circle | calculating perimeter
+2026-05-27 22:49:58,175 | INFO | Rectangle | created
+2026-05-27 22:49:58,176 | INFO | circle | creating dictionary
+2026-05-27 22:49:58,176 | INFO | circle | calculating area
+2026-05-27 22:49:58,177 | INFO | circle | calculating perimeter
+2026-05-27 22:52:47,867 | INFO | Rectangle | created
+2026-05-27 22:52:47,867 | INFO | circle | creating dictionary
+2026-05-27 22:52:47,868 | INFO | circle | calculating area
+2026-05-27 22:52:47,868 | INFO | circle | calculating perimeter
+2026-05-27 22:56:08,426 | INFO | Rectangle | created
+2026-05-27 22:56:08,427 | INFO | square | creating dictionary
+2026-05-27 22:56:08,427 | INFO | square | calculating area
+2026-05-27 22:56:08,427 | INFO | square | calculating perimeter
+2026-05-27 22:56:08,428 | INFO | Rectangle | jfhdh
+2026-05-27 22:56:20,954 | INFO | Rectangle | created
+2026-05-27 22:56:20,954 | INFO | Rectangle | creating dictionary
+2026-05-27 22:56:20,955 | INFO | Rectangle | calculating area
+2026-05-27 22:56:20,955 | INFO | Rectangle | calculating perimeter
+2026-05-27 22:56:20,955 | INFO | Rectangle | jfhdh
+2026-05-27 22:56:44,465 | INFO | Rectangle | created
+2026-05-27 22:56:44,466 | INFO | circle | creating dictionary
+2026-05-27 22:56:44,466 | INFO | circle | calculating area
+2026-05-27 22:56:44,466 | INFO | circle | calculating perimeter
+2026-05-27 22:56:44,466 | INFO | Rectangle | jfhdh
+2026-05-27 23:02:24,727 | INFO | Rectangle | created
+2026-05-27 23:02:24,728 | INFO | circle | creating dictionary
+2026-05-27 23:02:24,728 | INFO | circle | calculating area
+2026-05-27 23:02:24,728 | INFO | circle | calculating perimeter
+2026-05-27 23:02:24,728 | INFO | Rectangle | jfhdh
+2026-05-27 23:03:08,778 | INFO | Rectangle | created
+2026-05-27 23:03:08,779 | INFO | circle | creating dictionary
+2026-05-27 23:03:08,779 | INFO | circle | calculating area
+2026-05-27 23:03:08,779 | INFO | circle | calculating perimeter
+2026-05-27 23:03:08,780 | INFO | Rectangle | jfhdh
+2026-05-27 23:03:30,972 | INFO | Rectangle | created
+2026-05-27 23:03:30,972 | INFO | circle | creating dictionary
+2026-05-27 23:03:30,972 | INFO | circle | calculating area
+2026-05-27 23:03:30,973 | INFO | circle | calculating perimeter
+2026-05-27 23:03:30,973 | INFO | Rectangle | jfhdh
+2026-05-27 23:04:31,397 | INFO | Rectangle | created
+2026-05-27 23:04:31,398 | INFO | circle | creating dictionary
+2026-05-27 23:04:31,398 | INFO | circle | calculating area
+2026-05-27 23:04:31,398 | INFO | circle | calculating perimeter
+2026-05-27 23:04:31,399 | INFO | Rectangle | jfhdh
+2026-05-27 23:05:22,919 | INFO | Rectangle | created
+2026-05-27 23:05:22,920 | INFO | circle | creating dictionary
+2026-05-27 23:05:22,920 | INFO | circle | calculating area
+2026-05-27 23:05:22,920 | INFO | circle | calculating perimeter
+2026-05-27 23:05:22,920 | INFO | Rectangle | jfhdh
+2026-05-27 23:16:55,218 | INFO | Rectangle | hyht
+2026-05-27 23:17:11,637 | INFO | Rectangle | hyht
+2026-05-27 23:17:11,637 | INFO | Rectangle | hyht
+2026-05-27 23:37:10,448 | INFO | Rectangle | a
+2026-05-27 23:44:17,740 | INFO | Rectangle | a
+2026-05-27 23:44:22,535 | INFO | Rectangle | b
+2026-05-27 23:46:15,589 | INFO | Rectangle | a
+2026-05-27 23:46:21,023 | INFO | Rectangle | b
+2026-05-27 23:46:21,024 | INFO | Rectangle | c
+2026-05-27 23:46:21,024 | INFO | Rectangle | created
+2026-05-27 23:47:46,435 | INFO | Rectangle | a
+2026-05-27 23:47:51,202 | INFO | Rectangle | b
+2026-05-27 23:47:51,203 | INFO | Rectangle | c
+2026-05-27 23:47:51,203 | INFO | Rectangle | created
+2026-05-27 23:51:27,797 | INFO | Rectangle | a
+2026-05-27 23:51:29,752 | INFO | Rectangle | b
+2026-05-27 23:51:29,753 | INFO | Rectangle | c
+2026-05-27 23:51:29,754 | INFO | Rectangle | created
+2026-05-28 08:23:26,058 | INFO | Rectangle | created
+2026-05-28 08:23:26,058 | INFO | circle | creating dictionary
+2026-05-28 08:23:26,059 | INFO | circle | calculating area
+2026-05-28 08:23:26,059 | INFO | circle | calculating perimeter
+2026-05-28 08:23:26,059 | INFO | Rectangle | jfhdh
+2026-05-28 08:23:55,324 | INFO | Rectangle | a
+2026-05-28 08:24:00,616 | INFO | Rectangle | b
+2026-05-28 08:24:00,616 | INFO | Rectangle | c
+2026-05-28 08:24:00,616 | INFO | Rectangle | created
+2026-05-28 08:26:10,268 | INFO | Rectangle | a
+2026-05-28 08:30:43,921 | INFO | Rectangle | a
+2026-05-28 08:31:35,321 | INFO | Rectangle | a
+2026-05-28 08:32:52,691 | INFO | Rectangle | b
+2026-05-28 08:32:52,693 | INFO | Rectangle | c
+2026-05-28 08:32:52,693 | INFO | Rectangle | created
+2026-05-28 08:32:57,094 | INFO | Rectangle | a
+2026-05-28 08:34:19,158 | INFO | Rectangle | a
+2026-05-28 08:36:43,192 | INFO | Rectangle | a
+2026-05-28 08:36:49,664 | INFO | Rectangle | b
+2026-05-28 08:36:49,665 | INFO | Rectangle | c
+2026-05-28 08:36:49,665 | INFO | Rectangle | created
+2026-05-28 09:48:21,258 | INFO | Rectangle | a
+2026-05-28 09:48:48,598 | INFO | Rectangle | a
+2026-05-28 09:49:06,565 | INFO | Rectangle | a
+2026-05-28 09:49:10,570 | INFO | Rectangle | b
+2026-05-28 09:53:42,759 | INFO | Rectangle | a
+2026-05-28 09:55:40,409 | INFO | Rectangle | a
+2026-05-28 10:13:21,004 | INFO | Rectangle | a
+2026-05-28 10:14:45,082 | INFO | Rectangle | a
+2026-05-28 10:15:26,334 | INFO | Rectangle | a
+2026-05-28 10:15:48,256 | INFO | Rectangle | a
+2026-05-28 10:16:02,446 | INFO | Rectangle | a
+2026-05-28 10:17:03,700 | INFO | Rectangle | a
+2026-05-28 10:17:07,013 | INFO | Rectangle | b
+2026-05-28 10:20:01,778 | INFO | Rectangle | a
+2026-05-28 10:20:05,495 | INFO | Rectangle | b
+2026-05-28 10:20:58,812 | INFO | Rectangle | a
+2026-05-28 10:21:01,949 | INFO | Rectangle | b
+2026-05-28 10:22:03,494 | INFO | Rectangle | a
+2026-05-28 10:22:06,506 | INFO | Rectangle | b
+2026-05-28 10:22:59,356 | INFO | Rectangle | a
+2026-05-28 10:23:02,856 | INFO | Rectangle | b
+2026-05-28 10:23:29,774 | INFO | Rectangle | a
+2026-05-28 10:23:37,013 | INFO | Rectangle | b
+2026-05-28 10:24:01,481 | INFO | Rectangle | a
+2026-05-28 10:24:12,296 | INFO | Rectangle | b
+2026-05-28 10:24:12,297 | INFO | circle | creating dictionary
+2026-05-28 10:24:12,297 | INFO | circle | calculating area
+2026-05-28 10:24:12,297 | INFO | circle | calculating perimeter
+2026-05-28 10:24:12,298 | INFO | Rectangle | jfhdh
+2026-05-28 10:24:12,298 | INFO | Rectangle | c
+2026-05-28 11:04:56,397 | INFO | Rectangle | created
+2026-05-28 11:04:56,398 | INFO | Rectangle | creating dictionary
+2026-05-28 11:04:56,398 | INFO | Rectangle | calculating area
+2026-05-28 11:04:56,398 | INFO | Rectangle | calculating perimeter
+2026-05-28 11:04:56,398 | INFO | Rectangle | jfhdh
+2026-05-28 11:15:07,081 | INFO | Rectangle | jfhdh
+2026-05-28 11:17:20,277 | INFO | Rectangle | created
+2026-05-28 11:25:03,185 | INFO | Rectangle | created
+2026-05-28 11:25:03,185 | INFO | circle | creating dictionary
+2026-05-28 11:25:03,186 | INFO | circle | calculating area
+2026-05-28 11:25:03,186 | INFO | circle | calculating perimeter
+2026-05-28 11:25:03,186 | INFO | Rectangle | jfhdh
+2026-05-28 11:27:22,749 | INFO | Rectangle | user input not in the options
+2026-05-28 11:27:38,388 | INFO | Rectangle | a
+2026-05-28 11:28:05,726 | INFO | Rectangle | user input not in the options
+2026-05-28 11:28:12,782 | INFO | Rectangle | created
+2026-05-28 11:30:56,205 | INFO | Rectangle | created
+2026-05-28 11:30:56,206 | INFO | circle | creating dictionary
+2026-05-28 11:30:56,206 | INFO | circle | calculating area
+2026-05-28 11:30:56,206 | INFO | circle | calculating perimeter
+2026-05-28 11:30:56,207 | INFO | Rectangle | jfhdh
+2026-05-28 11:31:29,266 | INFO | Rectangle | created
+2026-05-28 11:31:29,267 | INFO | circle | creating dictionary
+2026-05-28 11:31:29,267 | INFO | circle | calculating area
+2026-05-28 11:31:29,267 | INFO | circle | calculating perimeter
+2026-05-28 11:31:29,267 | INFO | Rectangle | jfhdh
+2026-05-28 11:32:07,273 | INFO | Rectangle | created
+2026-05-28 11:32:07,273 | INFO | circle | creating dictionary
+2026-05-28 11:32:07,274 | INFO | circle | calculating area
+2026-05-28 11:32:07,274 | INFO | circle | calculating perimeter
+2026-05-28 11:32:07,275 | INFO | Rectangle | jfhdh
+2026-05-28 11:33:32,782 | INFO | Rectangle | created
+2026-05-28 11:33:32,782 | INFO | circle | creating dictionary
+2026-05-28 11:33:32,783 | INFO | circle | calculating area
+2026-05-28 11:33:32,783 | INFO | circle | calculating perimeter
+2026-05-28 11:33:32,783 | INFO | Rectangle | jfhdh
+2026-05-28 11:35:39,968 | INFO | Rectangle | created
+2026-05-28 11:35:39,969 | INFO | circle | creating dictionary
+2026-05-28 11:35:39,969 | INFO | circle | calculating area
+2026-05-28 11:35:39,969 | INFO | circle | calculating perimeter
+2026-05-28 11:35:39,970 | INFO | Rectangle | jfhdh
+2026-05-28 11:53:13,645 | INFO | Rectangle | zero
+2026-05-28 11:55:36,869 | INFO | Rectangle | zero
+2026-05-28 11:57:15,288 | INFO | Rectangle | zero
+2026-05-28 11:59:36,767 | INFO | logger | zero
+2026-05-28 11:59:36,767 | INFO | logger | zero
+2026-05-28 11:59:36,767 | INFO | logger | zero
+2026-05-28 12:00:36,114 | INFO | logger | a
+2026-05-28 12:00:36,114 | INFO | logger | a
+2026-05-28 12:00:36,114 | INFO | logger | a
+2026-05-28 12:05:05,211 | INFO | logger | zero
+2026-05-28 12:05:05,211 | INFO | logger | zero
+2026-05-28 12:05:05,211 | INFO | logger | zero
+2026-05-28 12:11:00,272 | INFO | logger | zero
+2026-05-28 12:11:00,272 | INFO | logger | zero
+2026-05-28 12:11:00,272 | INFO | logger | zero
+2026-05-28 12:13:25,316 | INFO | logger | zero
+2026-05-28 12:13:25,316 | INFO | logger | zero
+2026-05-28 12:13:25,316 | INFO | logger | zero
+2026-05-28 12:13:46,044 | INFO | logger | zero
+2026-05-28 12:13:46,044 | INFO | logger | zero
+2026-05-28 12:13:46,044 | INFO | logger | zero
+2026-05-28 12:16:10,981 | INFO | logger | zero
+2026-05-28 12:16:10,981 | INFO | logger | zero
+2026-05-28 12:16:10,981 | INFO | logger | zero
+2026-05-28 12:16:42,164 | INFO | __main__ | zero
+2026-05-28 12:19:51,507 | INFO | __main__ | zero
+2026-05-28 12:44:36,511 | INFO | __main__ | a
+2026-05-28 14:01:15,566 | INFO | __main__ | a
+2026-05-28 14:02:15,447 | INFO | __main__ | a
+2026-05-28 14:03:01,594 | INFO | __main__ | a
+2026-05-28 14:03:16,177 | INFO | __main__ | a
+2026-05-28 14:03:24,877 | INFO | logger | b
+2026-05-28 14:03:24,877 | INFO | logger | b
+2026-05-28 14:27:56,862 | INFO | __main__ | a
+2026-05-28 14:28:01,713 | INFO | __main__ | a
+2026-05-28 14:28:14,959 | INFO | logger | b
+2026-05-28 14:28:14,959 | INFO | logger | b
+2026-05-28 14:28:27,193 | INFO | __main__ | a
+2026-05-28 14:28:47,267 | INFO | logger | b
+2026-05-28 14:28:47,267 | INFO | logger | b
+2026-05-28 14:29:18,230 | INFO | __main__ | a
