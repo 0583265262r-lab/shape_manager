@@ -1,26 +1,27 @@
 from shape import *
 from logger import get_logger
-logger=get_logger()
+logger=get_logger(__name__)
 
 class Square(Shape):
+    ''' מחלקה המייצגת ריבוע'''
     def __init__(self, type, shape_id,side):
         super().__init__(type, shape_id)
         self.side = side
     
     def get_area(self):
-        '''הפונקציה מחשבת שטח'''
-        logger.info(f"calculating area")
+        ''' calculate area of square'''
+        logger.info(f"Square {self.shape_id}: calculating area")
 
         return str(self.side ** 2)
     
     def get_perimeter(self):
-        '''פונקציה שמחשבת היקף'''
-        logger.info(f"calculating perimeter")
+        ''' calculate perimeter of square'''
+        logger.info(f"Square {self.shape_id}: calculating perimeter")
         return str(self.side * 4)
     
     def to_dict(self):
-        '''פונקציה שמייצרת מילון '''
-        logger.info(f"creating dictionary")
+        ''' converting square details to a dictionary'''
+        logger.info(f"Square {self.shape_id}: creating dictionary")
         return {str(self.shape_id):{"type":self.type,"side":str(self.side),
                                     "area":self.get_area(),
                                     "perimeter":self.get_perimeter(),

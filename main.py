@@ -1,9 +1,20 @@
+'''
+The main file(main.py) manages the user interface(CLI)
+and connects the user to the ShapeManager
+'''
+
+
+
 from shape_manager import *
 from logger import get_logger
-logger = get_logger(__name__)
-shape_manager=ShapeManager(logger)
 
-def add_shape():
+
+logger = get_logger(__name__)
+shape_manager=ShapeManager()
+
+def handel_add_shape():
+    ''' Receives form type and parameters from the user, and passes them to management '''
+    logger.info(" Main: add shape process initiated")
     shape_arg = {}
     user_choice = {"1":"circle","2":"square","3":"rectangle"}
     print("1.circle\n"
@@ -11,47 +22,56 @@ def add_shape():
           "3.rectangle")
     choice_shape=input("enter your choice: ")
     if choice_shape in user_choice:
-        shape_arg[user_choice[choice_shape]]={}
-        for arg in shape_manager.SHAPE_CLS[user_choice[choice_shape]]["filed"]:
+        shape_type=user_choice[choice_shape]
+        shape_arg[shape_type]={}
+        for arg in shape_manager.SHAPE_CLS[shape_type]["filed"]:
             try:
                 parameter = int(input(f"please enter {arg}: "))
                 if parameter <= 0:
-                    logger.info("zero")
-                    print("parameter cen not be 0")
-                    break
-                shape_arg[user_choice[choice_shape]][arg]=parameter
-            except ValueError as e:
-                print( f"int needed {e}")
-                break
+                    logger.warning(f"Main: Invalid input {parameter} for {arg}")
+                    print("parameter cannot be 0 or negative.")
+                    return
+                shape_arg[shape_type][arg]=parameter
+            except ValueError:
+                logger.error("Main: User entered non-integer value")
+                print("Error: please enter a valid number")
+                return
         else:
             shape_manager.create_shape(shape_arg)
+            logger.info(f"Main: Successfully added {shape_type}")
     else:
-        print("invalid input")
-        logger.info("user input not in the options")
+        logger.warning("Invalid shape choice")
+        print("invalid choice")
     
     
 
 
-def update():
-    logger.info("a")
+def handel_update():
+    ''' Updating an existing shape by ID'''
+    logger.info("Main: Update process initiated")
     try:
         input_shape_id = int(input("please enter ID: "))
         shape_id=str(input_shape_id)
-        shapes = shape_manager.load_from_json("shapes.json")
-        current_shape = shapes[shape_id]
-        shape_arg = {}
-        shape_arg[current_shape["type"]]={}
-        for arg in shape_manager.SHAPE_CLS[current_shape["type"]]["filed"]:
+        if shape_id not in shape_manager.data:
+            print("ID not found")
+            return
+        current_type= shape_manager.data[shape_id]["type"]
+        shape_arg = {current_type : {}}
+        for arg in shape_manager.SHAPE_CLS[current_type]["filed"]:
             try:
                 parameter = int(input(f"please enter {arg}: "))
-                shape_arg[current_shape["type"]][arg]=parameter
-            except ValueError as e:
-                print( f"int needed {e}")
-                break
+                shape_arg[current_type][arg]=parameter
+            except ValueError:
+                logger.error("Main: User entered non-integer value")
+                print("Error: please enter a valid number")
+                return
         else:
             shape_manager.update_shape(shape_id,shape_arg)
-    except ValueError as e:
-        print(f"invalid input {e}")
+            logger.info(f"Main: Shape {shape_id} update")
+            print(f"The update {shape_id} was successful.")
+    except Exception as e:
+        logger.error(f"Main: Update failed: {e}")
+        print(f"Update failed")
     
 
 def delete():
@@ -77,11 +97,11 @@ def main():
                                 "")
         match choice_from_user:
             case "1":
-                add_shape()
+                handel_add_shape()
             case "2":
                 shape_manager.get_all_shapes()
             case "3":
-                update()
+                handel_update()
             case "4":
                 delete()
             case "5":

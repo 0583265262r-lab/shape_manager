@@ -427,3 +427,62 @@
 2026-05-28 14:28:47,267 | INFO | logger | b
 2026-05-28 14:28:47,267 | INFO | logger | b
 2026-05-28 14:29:18,230 | INFO | __main__ | a
+2026-05-29 03:04:52,197 | INFO | __main__ | created
+2026-05-29 03:04:52,198 | INFO | logger | creating dictionary
+2026-05-29 03:04:52,198 | INFO | logger | creating dictionary
+2026-05-29 03:04:52,198 | INFO | logger | calculating area
+2026-05-29 03:04:52,198 | INFO | logger | calculating area
+2026-05-29 03:04:52,199 | INFO | logger | calculating perimeter
+2026-05-29 03:04:52,199 | INFO | logger | calculating perimeter
+2026-05-29 03:04:52,199 | INFO | logger | jfhdh
+2026-05-29 03:04:52,199 | INFO | logger | jfhdh
+2026-05-29 16:30:51,213 | INFO | __main__ | created
+2026-05-29 16:32:11,854 | INFO | __main__ | created
+2026-05-29 16:33:05,136 | INFO | __main__ | created
+2026-05-29 16:33:49,930 | INFO | rectangle | created
+2026-05-29 16:34:46,360 | INFO | rectangle | created
+2026-05-29 16:34:46,361 | INFO | circle | Circle: creating dictionary
+2026-05-29 16:35:18,555 | INFO | rectangle | created
+2026-05-29 16:35:18,555 | INFO | circle | Circle: creating dictionary
+2026-05-29 16:35:18,555 | INFO | circle | Circle: calculating area
+2026-05-29 16:35:18,557 | INFO | circle | Circle: calculating perimeter
+2026-05-29 16:35:18,557 | INFO | rectangle | jfhdh
+2026-05-29 16:36:21,698 | INFO | rectangle | created
+2026-05-29 16:36:21,699 | INFO | circle | Circle: creating dictionary
+2026-05-29 16:36:21,699 | INFO | circle | Circle: calculating area
+2026-05-29 16:36:21,699 | INFO | circle | Circle: calculating perimeter
+2026-05-29 16:36:21,699 | INFO | rectangle | jfhdh
+2026-05-29 16:37:37,224 | INFO | rectangle | created
+2026-05-29 16:37:37,224 | INFO | square | Square 21: creating dictionary
+2026-05-29 16:37:37,224 | INFO | square | Square 21: calculating area
+2026-05-29 16:37:37,225 | INFO | square | Square 21: calculating perimeter
+2026-05-29 16:37:37,225 | INFO | rectangle | jfhdh
+2026-05-29 16:38:35,416 | INFO | shape_manager | created
+2026-05-29 16:38:35,416 | INFO | circle | Circle 22: creating dictionary
+2026-05-29 16:38:35,416 | INFO | circle | Circle 22: calculating area
+2026-05-29 16:38:35,416 | INFO | circle | Circle 22: calculating perimeter
+2026-05-29 16:38:35,417 | INFO | shape_manager | jfhdh
+2026-05-29 17:35:34,613 | INFO | __main__ |  Main: add shape process initiated
+2026-05-29 17:35:42,913 | INFO | shape_manager | Manager : creating new shape
+2026-05-29 17:35:42,913 | INFO | circle | Circle 23: creating dictionary
+2026-05-29 17:35:42,914 | INFO | circle | Circle 23: calculating area
+2026-05-29 17:35:42,914 | INFO | circle | Circle 23: calculating perimeter
+2026-05-29 17:35:42,914 | INFO | __main__ | Main: Successfully added circle
+2026-05-29 17:36:01,199 | INFO | __main__ |  Main: add shape process initiated
+2026-05-29 17:36:04,577 | WARNING | __main__ | Invalid shape choice
+2026-05-29 17:36:11,994 | INFO | __main__ |  Main: add shape process initiated
+2026-05-29 17:36:16,663 | ERROR | __main__ | Main: User entered non-integer value
+2026-05-29 17:36:26,748 | INFO | __main__ | Main: Update process initiated
+2026-05-29 17:36:41,684 | INFO | __main__ | Main: Update process initiated
+2026-05-29 17:36:47,209 | INFO | __main__ | Main: Update process initiated
+2026-05-29 17:36:55,596 | INFO | shape_manager | Manager : updating shape 16 
+2026-05-29 17:36:55,597 | INFO | circle | Circle 16: creating dictionary
+2026-05-29 17:36:55,597 | INFO | circle | Circle 16: calculating area
+2026-05-29 17:36:55,597 | INFO | circle | Circle 16: calculating perimeter
+2026-05-29 17:36:55,598 | INFO | __main__ | Main: Shape 16 update
+2026-05-29 17:38:53,439 | INFO | __main__ | Main: Update process initiated
+2026-05-29 17:38:57,874 | INFO | shape_manager | Manager : updating shape 17 
+2026-05-29 17:38:57,875 | INFO | circle | Circle 17: creating dictionary
+2026-05-29 17:38:57,875 | INFO | circle | Circle 17: calculating area
+2026-05-29 17:38:57,875 | INFO | circle | Circle 17: calculating perimeter
+2026-05-29 17:38:57,876 | INFO | __main__ | Main: Shape 17 update

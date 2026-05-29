@@ -44,14 +44,51 @@
     },
     "16": {
         "type": "circle",
-        "radius": "0",
-        "area": "0.0",
-        "perimeter": "0.0"
+        "radius": "4",
+        "area": "50.24",
+        "perimeter": "25.12"
     },
     "17": {
         "type": "circle",
-        "radius": "0",
-        "area": "0.0",
-        "perimeter": "0.0"
+        "radius": "3",
+        "area": "28.26",
+        "perimeter": "18.84"
+    },
+    "18": {
+        "type": "rectangle",
+        "width": "3",
+        "height": "3",
+        "area": "12",
+        "perimeter": "14"
+    },
+    "19": {
+        "type": "circle",
+        "radius": "3",
+        "area": "28.26",
+        "perimeter": "18.84"
+    },
+    "20": {
+        "type": "circle",
+        "radius": "2",
+        "area": "12.56",
+        "perimeter": "12.56"
+    },
+    "21": {
+        "type": "square",
+        "side": "5",
+        "area": "25",
+        "perimeter": "20"
+    },
+    "22": {
+        "type": "circle",
+        "radius": "3",
+        "area": "28.26",
+        "perimeter": "18.84"
+    },
+    "23": {
+        "type": "circle",
+        "radius": "3",
+        "area": "28.26",
+        "perimeter": "18.84"
     }
 }
