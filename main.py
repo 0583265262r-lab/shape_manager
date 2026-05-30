@@ -68,17 +68,21 @@ def handel_update():
         else:
             shape_manager.update_shape(shape_id,shape_arg)
             logger.info(f"Main: Shape {shape_id} update")
-            print(f"The update {shape_id} was successful.")
+            print(f"The update shape ID {shape_id} was successful.")
     except Exception as e:
         logger.error(f"Main: Update failed: {e}")
         print(f"Update failed")
     
 
 def delete():
+    ''' Deletes a shape by ID. '''
+    logger.info("Main: Delete process initiated")
     try:
-        shape_id = int(input("please enter ID: "))
+        shape_id = int(input("please enter ID to delete: "))
         shape_manager.delete_shape(shape_id)
-    except ValueError as e:
+        print(f"The shape  ID {shape_id} was successfully deleted.")
+    except Exception as e:
+        logger.error(f"Main: Delete failed: {e}")
         print(f"invalid input {e}")
 
     
@@ -87,14 +91,16 @@ def delete():
 
 
 def main():
+    ''' Main loop of the program.'''
+    logger.info("Main: Program started")
     while True:
-        print("=============\n")
+        print("\n============= Shape Menu =============")
         choice_from_user=input("1. Add shape: \n" \
                                 "2. Show all shape\n" \
                                 "3. Update shape\n" \
                                 "4. Delete shape\n" \
                                 "5. Exit\n" \
-                                "")
+                                "please enter your choice: ")
         match choice_from_user:
             case "1":
                 handel_add_shape()
@@ -105,6 +111,7 @@ def main():
             case "4":
                 delete()
             case "5":
+                logger.info("Main: Program exited by user")
                 print("goodby")
                 break
             case _:

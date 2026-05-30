@@ -32,21 +32,9 @@
     },
     "14": {
         "type": "circle",
-        "radius": "0",
-        "area": "0.0",
-        "perimeter": "0.0"
-    },
-    "15": {
-        "type": "circle",
-        "radius": "0",
-        "area": "0.0",
-        "perimeter": "0.0"
-    },
-    "16": {
-        "type": "circle",
-        "radius": "4",
-        "area": "50.24",
-        "perimeter": "25.12"
+        "radius": "6",
+        "area": "113.04",
+        "perimeter": "37.68"
     },
     "17": {
         "type": "circle",

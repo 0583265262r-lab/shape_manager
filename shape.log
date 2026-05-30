@@ -486,3 +486,17 @@
 2026-05-29 17:38:57,875 | INFO | circle | Circle 17: calculating area
 2026-05-29 17:38:57,875 | INFO | circle | Circle 17: calculating perimeter
 2026-05-29 17:38:57,876 | INFO | __main__ | Main: Shape 17 update
+2026-05-30 22:34:34,566 | INFO | __main__ | Main: Update process initiated
+2026-05-30 22:34:42,133 | INFO | shape_manager | Manager : updating shape 14 
+2026-05-30 22:34:42,133 | INFO | circle | Circle 14: creating dictionary
+2026-05-30 22:34:42,134 | INFO | circle | Circle 14: calculating area
+2026-05-30 22:34:42,134 | INFO | circle | Circle 14: calculating perimeter
+2026-05-30 22:34:42,136 | INFO | __main__ | Main: Shape 14 update
+2026-05-30 22:41:42,846 | INFO | __main__ | Main: Program started
+2026-05-30 22:42:15,792 | INFO | __main__ | Main: Program started
+2026-05-30 22:42:46,689 | INFO | __main__ | Main: Program started
+2026-05-30 22:42:52,143 | INFO | __main__ | Main: Delete process initiated
+2026-05-30 22:42:58,156 | INFO | shape_manager | Manager :deleted shape 15
+2026-05-30 22:44:16,829 | INFO | __main__ | Main: Program started
+2026-05-30 22:44:26,551 | INFO | __main__ | Main: Delete process initiated
+2026-05-30 22:44:28,390 | INFO | shape_manager | Manager :deleted shape 16
